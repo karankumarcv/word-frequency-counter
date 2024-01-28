@@ -1,7 +1,8 @@
 # Word Frequency Counter
 
 ## Project Description
-This project, developed by students from Galgotias University's School of Computing Science and Engineering, focuses on creating a software application for Word Frequency Counter. The primary objective is to design a tool that efficiently analyzes text input, offering insights into the frequency of each word. This software will assist users in comprehending the distribution of words within a given document or text.
+- This project, developed by students from Galgotias University's School of Computing Science and Engineering, focuses on creating a software application for Word Frequency Counter.
+- The primary objective is to design a tool that efficiently analyzes text input, offering insights into the frequency of each word.
 
 ## Team Members
 - **Karan Kumar**
